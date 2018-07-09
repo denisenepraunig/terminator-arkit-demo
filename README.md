@@ -1,5 +1,5 @@
 # terminator-arkit-demo
-Short hacky demo for a Terminator UI with ARKit.
+Short hacky demo for a Terminator UI with ARKit: [Tweet](https://twitter.com/denisenepraunig/status/1016406960319672321?s=21).
 
 Demo inspired by the original Terminator UI:
 
